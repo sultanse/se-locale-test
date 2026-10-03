@@ -1,5 +1,5 @@
 {
-  "welcome": "Welcome to my website.",
+  "welcome": "Welcome",
   "description": "This is dummy translation data",
   "key": "Value",
   "button": "Get started edit",
@@ -57,7 +57,7 @@
     "footer": {
       "copyright": "© 2026 All rights reserved",
       "privacy": "Privacy",
-      "terms": "Terms and conditions."
+      "terms": "Terms and conditions"
     }
   }
 }
