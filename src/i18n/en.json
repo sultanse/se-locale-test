@@ -1,0 +1,62 @@
+{
+  "welcome": "Welcome",
+  "description": "This is dummy translation data",
+  "button": "Get started",
+  "title": "Dashboard",
+  "subtitle": "Manage your content with ease",
+  "search": "Search",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "close": "Close",
+  "loading": "Loading",
+  "success": "Operation completed successfully",
+  "error": "Something went wrong",
+  "empty": "No data available",
+  "profile": "Profile",
+  "settings": "Settings",
+  "notifications": "Notifications",
+  "logout": "Log out",
+  "language": "Language",
+  "theme": "Theme",
+  "darkMode": "Dark mode",
+  "lightMode": "Light mode",
+  "next": "Next",
+  "previous": "Previous",
+  "submit": "Submit",
+  "reset": "Reset",
+  "confirm": "Confirm",
+  "welcomeUser": "Hello {name}",
+  "itemsCount": "You have {count} items",
+  "dashboard": "Dashboard overview",
+  "users": "Users",
+  "analytics": "Analytics",
+  "date": "Date",
+  "time": "Time",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "create": "Create",
+  "viewDetails": "View details",
+  "nested": {
+    "header": {
+      "brand": "Demo App",
+      "tagline": "Simple solutions for your team"
+    },
+    "menu": {
+      "home": "Home",
+      "projects": "Projects",
+      "reports": "Reports"
+    },
+    "form": {
+      "nameLabel": "Name",
+      "emailLabel": "Email",
+      "messageLabel": "Message"
+    },
+    "footer": {
+      "copyright": "© 2026 All rights reserved",
+      "privacy": "Privacy",
+      "terms": "Terms and conditions"
+    }
+  }
+}

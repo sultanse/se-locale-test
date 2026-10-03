@@ -1,0 +1,62 @@
+{
+  "welcome": " hi مرحبًا بك",
+  "description": "هذه بيانات تجريبية للترجمة",
+  "button": "ابدأ الآن",
+  "title": "لوحة التحكم",
+  "subtitle": "إدارة المحتوى بسهولة",
+  "search": "بحث",
+  "save": "حفظ",
+  "cancel": "إلغاء",
+  "delete": "حذف",
+  "edit": "تعديل",
+  "close": "إغلاق",
+  "loading": "جارٍ التحميل",
+  "success": "تمت العملية بنجاح",
+  "error": "حدث خطأ ما",
+  "empty": "لا توجد بيانات",
+  "profile": "الملف الشخصي",
+  "settings": "الإعدادات",
+  "notifications": "الإشعارات",
+  "logout": "تسجيل الخروج",
+  "language": "اللغة",
+  "theme": "المظهر",
+  "darkMode": "الوضع الداكن",
+  "lightMode": "الوضع الفاتح",
+  "next": "التالي",
+  "previous": "السابق",
+  "submit": "إرسال",
+  "reset": "إعادة تعيين",
+  "confirm": "تأكيد",
+  "welcomeUser": "أهلًا {name}",
+  "itemsCount": "لديك {count} عناصر",
+  "dashboard": "لوحة المعلومات",
+  "users": "المستخدمون",
+  "analytics": "التحليلات",
+  "date": "التاريخ",
+  "time": "الوقت",
+  "today": "اليوم",
+  "yesterday": "أمس",
+  "create": "إنشاء",
+  "viewDetails": "عرض التفاصيل",
+  "nested": {
+    "header": {
+      "brand": "تطبيق تجريبي",
+      "tagline": "حلول بسيطة لفريقك"
+    },
+    "menu": {
+      "home": "الرئيسية",
+      "projects": "المشاريع",
+      "reports": "التقارير"
+    },
+    "form": {
+      "nameLabel": "الاسم",
+      "emailLabel": "البريد الإلكتروني",
+      "messageLabel": "الرسالة"
+    },
+    "footer": {
+      "copyright": "© 2026 جميع الحقوق محفوظة",
+      "privacy": "الخصوصية",
+      "terms": "الشروط والأحكام"
+    }
+  }
+}
