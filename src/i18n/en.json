@@ -1,6 +1,7 @@
 {
   "welcome": "Welcome to my website",
   "description": "This is dummy translation data",
+  "key": "Value",
   "button": "Get started edit",
   "title": "Dashboard",
   "subtitle": "Manage your content with ease",
