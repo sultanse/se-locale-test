@@ -1,8 +1,8 @@
 {
   "welcome": "Welcome to ... website bla bla",
   "description": "This is dummy translation data",
-  "key": "Value",
-  "button": "Get started edit",
+  "key": "Value rq2-638596",
+  "button": "Get started edit rq-168897",
   "title": "dashboard",
   "subtitle": "Manage your content with ease",
   "search": "search",
@@ -46,7 +46,7 @@
     },
     "menu": {
       "home": "Home",
-      "projects": "Projects",
+      "projects": "Projects rq-071614",
       "reports": "Reports"
     },
     "form": {
